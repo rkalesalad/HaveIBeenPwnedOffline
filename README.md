@@ -7,7 +7,7 @@ Take the file `pwned-passwords-sha1-ordered-by-hash-v8.7z` and place it in the s
 
 Place it in the same folder as `binary_search.py`. 
 Currently it should be named 
-`pwned-passwords-sha1-ordered-by-hash-v5.txt`. If it has this 
+`pwned-passwords-sha1-ordered-by-hash-v7.txt`. If it has this 
 name you do not need to supply a filename for the script to
 search in.
 
