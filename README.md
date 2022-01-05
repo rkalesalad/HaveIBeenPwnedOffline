@@ -3,10 +3,7 @@ Search the password list from haveibeenpwned.com locally
 
 ## Usage
 
-Download the SHA-1 file (orderered by hash) 
-from https://haveibeenpwned.com/Passwords. 
-This file you download is a 12 GB 7zip file which 
-contains a 25GB txt file.
+Take the file `pwned-passwords-sha1-ordered-by-hash-v8.7z` and place it in the samer file as your python file.
 
 Place it in the same folder as `binary_search.py`. 
 Currently it should be named 
